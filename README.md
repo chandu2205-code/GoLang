@@ -28,8 +28,8 @@ Sample snippets for Golang
   2. If it fails with **git command not found** ensure GIT is installed and PATH variable is set to bin(ex: C:\Program Files\Git\bin) 
   
 # Writing and executing Go code snippet in VS
-* In VS File->New File , create new file named main.go , save it and copy the code from [Here] (https://gobyexample.com/hello-world)
+* In VS File->New File , create new file named **main.go** , save it and copy the code from [Here] (https://gobyexample.com/hello-world)
 * Now open terminal in VS code using View-> Integrated Terminal **or**  Ctrl+`
-* Execute command : **go run <filename.go> **
+* Execute command : **go run main.go**
 * Hurray !!! We learnt how to accomplish setup required to run Go program , long way to go :running:
   
