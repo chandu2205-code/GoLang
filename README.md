@@ -32,4 +32,15 @@ Sample snippets for Golang
 * Now open terminal in VS code using View-> Integrated Terminal **or**  Ctrl+`
 * Execute command : **go run main.go**
 * Hurray !!! We learnt how to accomplish setup required to run Go program , long way to go :running:
+
+# Organizing Source Code 
+* Modules are modern way of organizing the source code in Go
+* Create a New Folder and give it any name ,let me name it as **code**
+* Open this folder in VS code and lets try to initialize the folder by navigating to it using below command
+* **go mod init *name_of_module*** usually name_of_module is similar to github repository url, usually it is the location from which go
+  tries to pull dependencies from
+*   
+
+
+
   
