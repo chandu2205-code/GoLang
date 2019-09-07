@@ -39,7 +39,7 @@ Sample snippets for Golang
 * Open this folder in VS code and lets try to initialize the folder by navigating to it using below command
 * **go mod init *name_of_module*** usually name_of_module is similar to github repository url, usually it is the location from which go
   tries to pull dependencies from
-*   
+* Create a file with  main.go , this is the point where application bootstraps from .
 
 
 
