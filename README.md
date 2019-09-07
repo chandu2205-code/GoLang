@@ -48,6 +48,7 @@ Sample snippets for Golang
   1. int : 0
   2. string : ""
   3. float64 : 0.000000
+* Pointer Arithmetic is removed in Go   
   
 
   
