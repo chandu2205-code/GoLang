@@ -43,6 +43,11 @@ Sample snippets for Golang
 
 # Variable declaratoin and primitives available in GO
 * Datatypes present in Go lang : [Detailed description](https://www.geeksforgeeks.org/data-types-in-go/)
-*
+* **There is no concept of Uninitialized Variable in Go language**
+* Every variable has default value associated with it :
+  1. int : 0
+  2. string : ""
+  3. float64 : 0.000000
+  
 
   
