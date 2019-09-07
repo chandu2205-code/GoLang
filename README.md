@@ -20,7 +20,7 @@ Sample snippets for Golang
 * You can choose any editor of your choice but I used Visual Studio (referred as VS further) which can be [Download Here](https://code.visualstudio.com/)
 * Click through the prompts and accept license agreement , which launches VS automatically
 * By default VS do not support Go in order to make it support for Go we need to install Go plugin , click on package manager (Square solid   box on left panel) and enter Go in search box and click install 
-* Now hit Ctrl+Shift+P in VS code editor which opens up a command window search for :
+* Now hit Ctrl+Shift+P in VS code editor which opens up a command Palette(View->Command Palette) search for :
   - **GO: Install/Update Tools** 
   - which lists down several plugins select them all and click OK , which makes your VS code fully equipped to work with Go
 * If plugin installation is failed then follow below sequence of steps :
