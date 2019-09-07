@@ -41,6 +41,8 @@ Sample snippets for Golang
   tries to pull dependencies from
 * Create a file with  main.go , this is the point where application bootstraps from .
 
-
+# Variable declaratoin and primitives available in GO
+* Datatypes present in Go lang : [Detailed description](https://www.geeksforgeeks.org/data-types-in-go/)
+*
 
   
