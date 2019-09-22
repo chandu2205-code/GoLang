@@ -48,7 +48,10 @@ Sample snippets for Golang
   1. int : 0
   2. string : ""
   3. float64 : 0.000000
-* Pointer Arithmetic is removed in Go   
+* Pointer Arithmetic is removed in Go 
+
+# Setting Bash on Windows 
+* Installing Git Bash is equivalent to using bash on windows [Install Git on windows 10](https://liveoncode.com/installing-gitbash-on-windows-10/)
   
 
   
