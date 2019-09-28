@@ -25,7 +25,9 @@ Sample snippets for Golang
   - which lists down several plugins select them all and click OK , which makes your VS code fully equipped to work with Go
 * If plugin installation is failed then follow below sequence of steps :
   1. Check whether GOROOT and GOPATH path variables are set [FOR MORE INFO](https://golang.org/doc/code.html#GOPATH)
-  2. If it fails with **git command not found** ensure GIT is installed and PATH variable is set to bin(ex: C:\Program Files\Git\bin) 
+  2. If it fails with **git command not found** ensure GIT is installed and PATH variable is set to bin(ex: C:\Program Files\Git\bin)
+# Goland Jetbrains
+* setting up of Goland is very easy it do not require any external plugins [Check Here](https://www.jetbrains.com/go/)
   
 # Writing and executing Go code snippet in VS
 * In VS File->New File , create new file named **main.go** , save it and copy the code from [Here] (https://gobyexample.com/hello-world)
