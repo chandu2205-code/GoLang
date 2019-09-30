@@ -55,5 +55,8 @@ Sample snippets for Golang
 # Setting Bash on Windows 
 * Installing Git Bash is equivalent to using bash on windows [Install Git on windows 10](https://liveoncode.com/installing-gitbash-on-windows-10/)
   
+# Formatting Go Code 
+* Execute below command under root folder or under the folder where formatting is expected :
+* **go fmt ./...**
 
   
